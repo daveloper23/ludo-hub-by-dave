@@ -7,6 +7,7 @@
 
   --magenta: #ff2e7e;
   --cyan: #3effe2;
+  --blue: #3e58ff;
   --orange: orange;
   --red: #bf1111;
   --green: darkgreen;
@@ -166,6 +167,7 @@ body::after {
 .cabinet-marquee.orange { background: linear-gradient(90deg, var(--orange), #ffd699); }
 .cabinet-marquee.red { background: linear-gradient(90deg, var(--red), #ff6b6b); }
 .cabinet-marquee.green { background: linear-gradient(90deg, var(--green), #4caf7d); }
+.cabinet-marquee.blue { background: linear-gradient(90deg, var(--blue), #7587ff); }
 
 .cabinet:hover .cabinet-marquee,
 .cabinet:focus-within .cabinet-marquee {
@@ -225,6 +227,7 @@ body::after {
 .arcade-button.orange { background: var(--orange); color: #2b1900; }
 .arcade-button.red { background: var(--red); color: #ffe4e4; }
 .arcade-button.green { background: var(--green); color: #d9f7e6; }
+.arcade-button.blue { background: var(--blue); color: #ecd9ff; }
 
 .arcade-button:hover,
 .arcade-button:focus-visible {
