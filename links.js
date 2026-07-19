@@ -22,38 +22,44 @@
 
 window.GAMES = [
   {
-    title: "Pixel Runner",
-    tagline: "Corsa infinita a scorrimento laterale, schiva gli ostacoli.",
+    title: "Perudo",
+    tagline: "Scommetti al rialzo, dubita, sfrutta i lama e calza per recuperare dadi.",
     accent: "magenta",
     links: [
-      { label: "Gioca ora", url: "https://example.com/pixel-runner" },
-      { label: "Codice sorgente", url: "https://github.com/tuo-utente/pixel-runner" }
+      { label: "Player", url: "https://perudo-by-dave.onrender.com" },
+      { label: "Dashboard", url: "https://perudo-by-dave.onrender.com/dashboard" }
     ]
   },
   {
-    title: "Quiz Master",
-    tagline: "Sfida la tua cultura generale contro il tempo.",
+    title: "Nome in codice",
+    tagline: "Collega tutte le parole della tua squadra, prima che ci riescano gli avversari. Attenzione alla parola killer!",
     accent: "cyan",
     links: [
-      { label: "Gioca ora", url: "https://example.com/quiz-master" }
+      { label: "Gioca ora", url: "https://nome-in-codice-digital.web.app" }
     ]
   },
   {
-    title: "Space Blocks",
-    tagline: "Tetris in salsa spaziale, con power-up e boss finali.",
+    title: "Sudoku",
+    tagline: "Risolvi gli schemi proposti e batti i tuoi record.",
     accent: "amber",
     links: [
-      { label: "Gioca ora", url: "https://example.com/space-blocks" },
-      { label: "Guarda il trailer", url: "https://example.com/space-blocks/trailer" },
-      { label: "Codice sorgente", url: "https://github.com/tuo-utente/space-blocks" }
+      { label: "Gioca ora", url: "https://sudoku-by-dave.web.app" }
     ]
   },
   {
-    title: "Maze Escape",
-    tagline: "Trova l'uscita prima che il labirinto cambi ancora.",
+    title: "Lupus",
+    tagline: "Lupi vs Contadini, guardie, veggenti, puttane e medium. Chi sopravviverà nel villaggio?",
     accent: "magenta",
     links: [
-      { label: "Gioca ora", url: "https://example.com/maze-escape" }
+      { label: "Gioca ora", url: "https://lupusbydave.firebaseapp.com" }
+    ]
+  },
+  {
+    title: "Tombola",
+    tagline: "Vuoi giocare all'intramontabile Tombola ma non hai con te un tabellone o vuoi risparmiarti la classica verifica sulla presenza di tutti i numeri nel sacchetto? Sei nel posto giusto",
+    accent: "magenta",
+    links: [
+      { label: "Gioca ora", url: "https://tombola-by-dave.web.app" }
     ]
   }
 ];
