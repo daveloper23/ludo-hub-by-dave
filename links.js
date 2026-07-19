@@ -24,16 +24,16 @@ window.GAMES = [
   {
     title: "Perudo",
     tagline: "Scommetti al rialzo, dubita, sfrutta i lama e calza per recuperare dadi.",
-    accent: "magenta",
+    accent: "orange",
     links: [
       { label: "Player", url: "https://perudo-by-dave.onrender.com" },
-      { label: "Dashboard", url: "https://perudo-by-dave.onrender.com/dashboard" }
+      { label: "Dashboard", url: "https://perudo-by-dave.onrender.com/dashboard.html" }
     ]
   },
   {
     title: "Nome in codice",
     tagline: "Collega tutte le parole della tua squadra, prima che ci riescano gli avversari. Attenzione alla parola killer!",
-    accent: "cyan",
+    accent: "magenta",
     links: [
       { label: "Gioca ora", url: "https://nome-in-codice-digital.web.app" }
     ]
@@ -41,7 +41,7 @@ window.GAMES = [
   {
     title: "Sudoku",
     tagline: "Risolvi gli schemi proposti e batti i tuoi record.",
-    accent: "amber",
+    accent: "cyan",
     links: [
       { label: "Gioca ora", url: "https://sudoku-by-dave.web.app" }
     ]
@@ -49,7 +49,7 @@ window.GAMES = [
   {
     title: "Lupus",
     tagline: "Lupi vs Contadini, guardie, veggenti, puttane e medium. Chi sopravviverà nel villaggio?",
-    accent: "magenta",
+    accent: "red",
     links: [
       { label: "Gioca ora", url: "https://lupusbydave.firebaseapp.com" }
     ]
@@ -57,7 +57,7 @@ window.GAMES = [
   {
     title: "Tombola",
     tagline: "Vuoi giocare all'intramontabile Tombola ma non hai con te un tabellone o vuoi risparmiarti la classica verifica sulla presenza di tutti i numeri nel sacchetto? Sei nel posto giusto",
-    accent: "magenta",
+    accent: "green",
     links: [
       { label: "Gioca ora", url: "https://tombola-by-dave.web.app" }
     ]
