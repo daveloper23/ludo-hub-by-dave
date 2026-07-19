@@ -1,6 +1,6 @@
 const { useMemo } = React;
 
-const ACCENTS = ["magenta", "cyan", "amber"];
+const ACCENTS = ["magenta", "cyan", "orange", "red", "green"];
 
 function GameCard({ game, index }) {
   const accent = ACCENTS.includes(game.accent) ? game.accent : ACCENTS[index % ACCENTS.length];

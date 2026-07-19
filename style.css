@@ -121,7 +121,7 @@ body::after {
   font-family: var(--font-mono);
   font-size: 13px;
   letter-spacing: 0.15em;
-  color: var(--amber);
+  color: var(--orange);
   animation: blink 1.4s steps(1) infinite;
 }
 
@@ -163,7 +163,9 @@ body::after {
 
 .cabinet-marquee.magenta { background: linear-gradient(90deg, var(--magenta), #ff8fb8); }
 .cabinet-marquee.cyan { background: linear-gradient(90deg, var(--cyan), #8ffff0); }
-.cabinet-marquee.amber { background: linear-gradient(90deg, var(--amber), #ffe2a3); }
+.cabinet-marquee.orange { background: linear-gradient(90deg, var(--orange), #ffd699); }
+.cabinet-marquee.red { background: linear-gradient(90deg, var(--red), #ff6b6b); }
+.cabinet-marquee.green { background: linear-gradient(90deg, var(--green), #4caf7d); }
 
 .cabinet:hover .cabinet-marquee,
 .cabinet:focus-within .cabinet-marquee {
@@ -220,7 +222,9 @@ body::after {
 
 .arcade-button.magenta { background: var(--magenta); color: #1a0410; }
 .arcade-button.cyan { background: var(--cyan); color: #04201c; }
-.arcade-button.amber { background: var(--amber); color: #241a02; }
+.arcade-button.orange { background: var(--orange); color: #2b1900; }
+.arcade-button.red { background: var(--red); color: #ffe4e4; }
+.arcade-button.green { background: var(--green); color: #d9f7e6; }
 
 .arcade-button:hover,
 .arcade-button:focus-visible {
