@@ -39,11 +39,11 @@ window.GAMES = [
     ]
   },
   {
-    title: "Sudoku",
-    tagline: "Risolvi gli schemi proposti e batti i tuoi record.",
+    title: "Crack the code",
+    tagline: "Mettiti alla prova nel trovare il codice numerico o di colori in sempre meno tentativi.",
     accent: "cyan",
     links: [
-      { label: "Gioca ora", url: "https://sudoku-by-dave.web.app" }
+      { label: "Gioca ora", url: "https://daveloper23.github.io/crack-the-code" }
     ]
   },
   {
@@ -52,6 +52,14 @@ window.GAMES = [
     accent: "red",
     links: [
       { label: "Gioca ora", url: "https://lupusbydave.firebaseapp.com" }
+    ]
+  },
+  {
+    title: "Sudoku",
+    tagline: "Risolvi gli schemi proposti e batti i tuoi record.",
+    accent: "cyan",
+    links: [
+      { label: "Gioca ora", url: "https://sudoku-by-dave.web.app" }
     ]
   },
   {
