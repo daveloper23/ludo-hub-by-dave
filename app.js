@@ -35,10 +35,10 @@ function GameHub() {
   return (
     <div className="page">
       <header className="hero">
-        <p className="hero-eyebrow">Sala giochi personale</p>
-        <h1 className="hero-title">GAME · HUB</h1>
+        <p className="hero-eyebrow">Ludoteca by Dave</p>
+        <h1 className="hero-title">DAVELOPER · GAME · HUB</h1>
         <p className="hero-subtitle">
-          Una raccolta dei giochi che ho costruito. Scegli un cabinato e premi start.
+          Abbatti la noia. Buon divertimento.
         </p>
         <p className="insert-coin">▸ INSERT COIN TO CONTINUE</p>
       </header>
