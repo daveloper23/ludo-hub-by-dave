@@ -36,7 +36,7 @@ function GameHub() {
     <div className="page">
       <header className="hero">
         <p className="hero-eyebrow">Ludoteca by Dave</p>
-        <h1 className="hero-title">DAVELOPER · GAME · HUB</h1>
+        <h1 className="hero-title">GAME · HUB</h1>
         <p className="hero-subtitle">
           Abbatti la noia. Buon divertimento.
         </p>
