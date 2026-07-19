@@ -57,7 +57,7 @@ window.GAMES = [
   {
     title: "Sudoku",
     tagline: "Risolvi gli schemi proposti e batti i tuoi record.",
-    accent: "cyan",
+    accent: "blue",
     links: [
       { label: "Gioca ora", url: "https://sudoku-by-dave.web.app" }
     ]
